@@ -1,0 +1,24 @@
+{
+  "name": "room-allocator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/chai": "^4.3.1",
+    "@types/lodash": "^4.14.182",
+    "@types/mocha": "^9.1.1",
+    "@types/node": "^18.6.1",
+    "chai": "^4.3.6",
+    "lodash": "^4.17.21",
+    "mocha": "^10.0.0",
+    "simulated-annealing": "^1.0.2",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.7.4"
+  }
+}
